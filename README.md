@@ -1,4 +1,5 @@
 DVWA – Damn Vulnerable Web Application
+Author: Supriya N R
 📌 Description
 
 Damn Vulnerable Web Application (DVWA) is an intentionally insecure web application built using PHP and MySQL. It is designed for students and cybersecurity learners to understand and practice common web application vulnerabilities in a safe environment.
